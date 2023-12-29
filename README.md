@@ -4,7 +4,9 @@ Hi 👋 My name is Kyaw Su Thway
 Backend Developer
 -----------------
 
-I'm a Backend Developer with over 5 years of experience and proficient in technologies including PHP, Laravel, NodeJS, NestJS, Docker, Postgres, MySQL, AzureSQL, Azure Functions.
+Passionate and accomplished senior web developer with a stellar track record of over 5 years in the industry. Proficient in an extensive array of cutting-edge technologies including PHP, Laravel, NodeJS, NestJS, Docker, Postgres, MySQL, AzureSQL, Azure Functions, and adept at leveraging version control tools like GitHub and AzureDevOps. Recognized for a tenacious problem-solving approach, exceptional communication skills, and a collaborative spirit that fuels outstanding team performance.
+
+Educationally, I hold a Diploma in IT and a Level 5 Diploma in Computing from NCC Education, underscoring a solid foundation in technical expertise. Furthermore, I am currently in the final year of pursuing a Bachelor of Science in Computing, where I continue to sharpen my skills and stay abreast of the latest industry trends.
 
 * 🌍  I'm based in Yangon, Myanmar
 * ✉️  You can contact me at [kyawsuthway.dev@gmail.com](mailto:kyawsuthway.dev@gmail.com)
